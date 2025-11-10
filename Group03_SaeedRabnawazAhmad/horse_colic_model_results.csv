@@ -1,0 +1,4 @@
+Model,Best_Params,CV_F1,Test_Accuracy,Test_F1,Test_ROC_AUC,Train_Time
+LogisticRegression,"{'C': 0.01, 'class_weight': None}",0.860533409944369,0.8695652173913043,0.90625,0.8630831643002029,2.68
+RandomForest,"{'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 300}",0.8840680780406809,0.9021739130434783,0.928,0.9092292089249493,2.52
+SVM,"{'C': 1, 'gamma': 'scale'}",0.8801259983755495,0.8913043478260869,0.9193548387096775,0.9224137931034482,0.14
